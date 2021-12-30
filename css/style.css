@@ -120,7 +120,7 @@ label[for="ham-menu"] {
 }
 
 #ham-menu:checked~[for="ham-menu"]>div>img {
-  content: url("../../recursos/close.svg");
+  content: url("../recursos/close.svg");
 }
 
 .full-page-blue {
